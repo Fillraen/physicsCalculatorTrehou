@@ -1,0 +1,2 @@
+# physicsCalculatorTrehou
+ QT Calculator
